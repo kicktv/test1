@@ -1,0 +1,20 @@
+title: kicktv Blog
+description: A simple blog powered by Jekyll
+url: https://kicktv.github.io/test1
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+markdown: kramdown
+highlighter: rouge
+
+author:
+  name: "kicktv"
+  email: "email@example.com"
+
+header_pages:
+  - index.md
+  - about.md
